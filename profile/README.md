@@ -12,6 +12,6 @@
 <p align="center">
   <a href="https://blawby.com">blawby.com</a> ·
   <a href="https://blawby.com/docs">Docs</a> ·
-  <a href="https://github.com/krabiclaw/krabiclaw">Source (AGPL-3.0)</a> ·
-  <a href="https://github.com/krabiclaw/krabiclaw/issues/new/choose">Report a problem</a>
+  <a href="https://github.com/Blawby/blawby">Source (AGPL-3.0)</a> ·
+  <a href="https://github.com/Blawby/blawby/issues/new/choose">Report a problem</a>
 </p>
